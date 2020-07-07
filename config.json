@@ -3,33 +3,49 @@
 		"725631921174085703": {
 			"name": "jcc",
 			"variables": {
-				"prefix": "!",
 				"color": "#fff133"
+			},
+			"channels": {
+				"suggest": "729985905573494794",
+				"feedback": "729985934883553331",
+				"help": "729985979313815562"
 			}
 		},
 		"726278265605586994": {
 			"name": "main",
 			"variables": {
-				"prefix": "!",
 				"color": "#c70808"
+			},
+			"channels": {
+				"suggest": "0",
+				"feedback": "0",
+				"help": "0"
 			}
 		},
 		"727116604235710485": {
 			"name": "unsc",
 			"variables": {
-				"prefix": "!",
 				"color": "#00a0e0"
+			},
+			"channels": {
+				"suggest": "0",
+				"feedback": "0",
+				"help": "0"
 			}
 		},
 		"726276891425767547": {
 			"name": "who",
 			"variables": {
-				"prefix": "!",
 				"color": "#2e4f8d"
+			},
+			"channels": {
+				"suggest": "0",
+				"feedback": "0",
+				"help": "0"
 			}
 		}
 	},
 	"global": {
-		"activity": "with Adiv. | botprefix for prefix | help for commands."
+		"activity": "with Adiv. | !help"
 	}
 }
