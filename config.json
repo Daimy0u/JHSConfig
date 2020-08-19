@@ -76,7 +76,19 @@
 				"feedback": "733663696060022792",
 				"help": "733663696060022790"
 			}
+		},
+		"287559045794234370": {
+			"name": "personal1",
+			"variables": {
+				"color": "#fdfdfd"
+			},
+			"channels": {
+				"suggest": "0",
+				"feedback": "0",
+				"help": "0"
+			}
 		}
+	},
 	},
 	"global": {
 		"activity": "with Adiv. | botprefix for prefix | help for commands."
